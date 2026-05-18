@@ -1,0 +1,321 @@
+[
+    {
+        "name":  "Fierce Biotech",
+        "url":  "https://www.fiercebiotech.com/",
+        "allowed_domains":  [
+                                "fiercebiotech.com"
+                            ],
+        "article_url_contains":  [
+                                     "/biotech/",
+                                     "/research/",
+                                     "/medtech/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/rss",
+                                     "/resources",
+                                     "/events",
+                                     "/about-us",
+                                     "/sponsored/",
+                                     "/podcasts",
+                                     "/special-reports",
+                                     "/whitepaper",
+                                     "/webinar",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "Fierce Pharma",
+        "url":  "https://www.fiercepharma.com/",
+        "allowed_domains":  [
+                                "fiercepharma.com"
+                            ],
+        "article_url_contains":  [
+                                     "/pharma/",
+                                     "/marketing/",
+                                     "/manufacturing/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/rss",
+                                     "/resources",
+                                     "/events",
+                                     "/about-us",
+                                     "/sponsored/",
+                                     "/podcasts",
+                                     "/special-reports",
+                                     "/whitepaper",
+                                     "/webinar",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "PharmaTimes",
+        "url":  "https://www.pharmatimes.com/",
+        "allowed_domains":  [
+                                "pharmatimes.com"
+                            ],
+        "article_url_contains":  [
+                                     "/news/",
+                                     "/article/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/rss",
+                                     "/magazine",
+                                     "/events",
+                                     "/jobs",
+                                     "/advertise",
+                                     "/contact",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "The Scientist",
+        "url":  "https://www.the-scientist.com/category/health/drug-discovery-and-development",
+        "allowed_domains":  [
+                                "the-scientist.com"
+                            ],
+        "article_url_contains":  [
+                                     "/news-opinion/",
+                                     "/features/",
+                                     "/drug-discovery-and-development/",
+                                     "/health/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/atom",
+                                     "/rss",
+                                     "/advertise",
+                                     "/about",
+                                     "/careers",
+                                     "/sponsored",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "Drug Discovery Today",
+        "url":  "https://www.sciencedirect.com/journal/drug-discovery-today",
+        "allowed_domains":  [
+                                "sciencedirect.com"
+                            ],
+        "article_url_contains":  [
+                                     "/science/article/",
+                                     "/journal/drug-discovery-today"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/rss",
+                                     "/user",
+                                     "/shopping",
+                                     "/subscribe",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "BioPharma Dive",
+        "url":  "https://www.biopharmadive.com/",
+        "allowed_domains":  [
+                                "biopharmadive.com"
+                            ],
+        "article_url_contains":  [
+                                     "/news/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/feeds",
+                                     "/spons/",
+                                     "/library/",
+                                     "/events/",
+                                     "/press-release/",
+                                     "/signup",
+                                     "/about",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "World Pharma News",
+        "url":  "https://www.worldpharmanews.com/research",
+        "allowed_domains":  [
+                                "worldpharmanews.com"
+                            ],
+        "article_url_contains":  [
+                                     "/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "?format=feed",
+                                     "type=rss",
+                                     "/rss",
+                                     "/contact",
+                                     "/about",
+                                     "/advertise",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "STAT News Pharma",
+        "url":  "https://www.statnews.com/category/pharma/",
+        "allowed_domains":  [
+                                "statnews.com"
+                            ],
+        "article_url_contains":  [
+                                     "/pharmalot/",
+                                     "/category/pharma/",
+                                     "/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/tag/",
+                                     "/author/",
+                                     "/about/",
+                                     "/subscribe/",
+                                     "/advertise/",
+                                     "/privacy/",
+                                     "/terms/",
+                                     "/login/",
+                                     "/account/",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "European Medicines Agency",
+        "url":  "https://www.ema.europa.eu/en/homepage",
+        "allowed_domains":  [
+                                "ema.europa.eu"
+                            ],
+        "article_url_contains":  [
+                                     "/en/news/",
+                                     "/en/medicines/",
+                                     "/en/events/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/en/about-us/",
+                                     "/en/contact/",
+                                     "/en/glossary/",
+                                     "/en/sitemap/",
+                                     "/en/search/",
+                                     "/documents/",
+                                     "/privacy",
+                                     "/cookies",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "MedCity News",
+        "url":  "https://medcitynews.com/",
+        "allowed_domains":  [
+                                "medcitynews.com"
+                            ],
+        "article_url_contains":  [
+                                     "/",
+                                     "/category/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/tag/",
+                                     "/author/",
+                                     "/events/",
+                                     "/jobs/",
+                                     "/about/",
+                                     "/advertise/",
+                                     "/sponsored/",
+                                     "/privacy-policy/",
+                                     "/terms-of-use/",
+                                     "/newsletter/",
+                                     "/subscribe/",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    },
+    {
+        "name":  "U.S. Food and Drug Administration",
+        "url":  "https://www.fda.gov/",
+        "allowed_domains":  [
+                                "fda.gov"
+                            ],
+        "article_url_contains":  [
+                                     "/news-events/",
+                                     "/drugs/",
+                                     "/vaccines-blood-biologics/",
+                                     "/medical-devices/"
+                                 ],
+        "exclude_url_contains":  [
+                                     "/about-fda/",
+                                     "/contact-fda/",
+                                     "/regulatory-information/search-fda-guidance-documents/",
+                                     "/safety/recalls-market-withdrawals-safety-alerts",
+                                     "/media/",
+                                     "/privacy/",
+                                     "/accessibility/",
+                                     ".jpg",
+                                     ".jpeg",
+                                     ".png",
+                                     ".webp",
+                                     ".gif",
+                                     ".svg",
+                                     ".avif",
+                                     ".ico"
+                                 ]
+    }
+]
