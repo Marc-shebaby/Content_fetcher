@@ -50,8 +50,7 @@ PAGE_SIZE_ABSTRACT = 100
 REQUEST_SLEEP = 0.12
 
 DEFAULT_SCHOLARLY_QUERY = (
-    'peptides OR "drug design" OR "drug discovery" OR optimization OR '
-    '"molecular modeling" OR "virtual screening"'
+    'peptides OR drug design OR computational drug discovery OR optimization OR molecular modeling OR virtual screening'
 )
 
 DEFAULT_REVIEW_QUERY = (
