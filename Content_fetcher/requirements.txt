@@ -1,8 +1,0 @@
-streamlit
-pandas
-requests
-feedparser
-beautifulsoup4
-ftfy
-lxml
-python-dotenv
