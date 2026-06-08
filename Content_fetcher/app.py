@@ -1,8 +1,4 @@
-"""Streamlit UI wrapper for the ReceptorAI fetchers.
-
-Run with:
-    streamlit run app.py
-"""
+"""Streamlit UI wrapper for the ReceptorAI fetchers."""
 
 from __future__ import annotations
 
@@ -694,13 +690,6 @@ def main() -> None:
     st.title("ReceptorAI Fetchers")
 
     selected_fetcher = st.selectbox("Which fetcher do you want to use?", FETCHER_OPTIONS)
-
-    st.markdown("### Run instructions")
-    st.code(
-        "pip install streamlit pandas requests feedparser beautifulsoup4 ftfy lxml python-dotenv\n"
-        "streamlit run app.py",
-        language="bash",
-    )
 
     if selected_fetcher == "Media sources":
         render_media_fetcher()
